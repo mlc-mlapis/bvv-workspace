@@ -1,0 +1,9 @@
+{
+	"no-hard-tabs": false,
+	"line-length": false,
+	"no-inline-html": {
+		"allowed_elements": [
+			"a"
+		]
+	}
+}
